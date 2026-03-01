@@ -19,6 +19,6 @@ instance/
 .coverage      # Test coverage reports
 htmlcov/
 
-# Staff computer files
+# Staff computer filess
 .DS_Store      # For teachers with Macs
 Thumbs.db      # For teachers with Windows
